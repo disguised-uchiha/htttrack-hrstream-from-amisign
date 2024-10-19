@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+amisign.com	TRUE	/	FALSE	1999999999	jobboard-similar[id]	1961
+amisign.com	TRUE	/	FALSE	1999999999	jobboard-similar[jobboard-tax-locations][263]	3
+amisign.com	TRUE	/	FALSE	1999999999	jobboard-similar[jobboard-tax-types][49]	2
+amisign.com	TRUE	/	FALSE	1999999999	jobboard-similar[jobboard-tax-types][57]	3
+amisign.com	TRUE	/	FALSE	1999999999	jobboard-similar[jobboard-tax-types][91]	2
+amisign.com	TRUE	/	FALSE	1999999999	jobboard-similar[jobboard-tax-types][126]	3
+
